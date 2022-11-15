@@ -1,0 +1,7 @@
+# Mac cruft
+.DS_Store
+
+# Python cruft
+*.pyc
+__pycache__/
+.pytest_cache/
